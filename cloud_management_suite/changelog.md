@@ -8,4 +8,8 @@ www.mdct-group.com/cms
 
 ## 3.0 - Build 050416
 
+ - Completely new development
+ 
+## 2.0 - Build 220116
+
  - Release
