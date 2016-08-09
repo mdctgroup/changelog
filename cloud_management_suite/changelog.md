@@ -24,4 +24,11 @@ www.mdct-group.com/cms
 
 ## 2.0 - Build 230915
 
- - Release
+ - New login service
+ - Profile update
+ - Remove network map
+ - New GUI
+
+## 1.0 - Build 190715
+
+- First Release
