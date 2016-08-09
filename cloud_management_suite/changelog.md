@@ -29,6 +29,6 @@ www.mdct-group.com/cms
  - Remove network map
  - New GUI
 
-## 1.0 - Build 190715
+## 1.0 - (Cloud Manager) - Build 190715
 
 - First Release
