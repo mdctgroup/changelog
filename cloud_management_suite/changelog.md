@@ -1,6 +1,11 @@
 # Cloud Management Suite
 www.mdct-group.com/cms
 
-## 1.0
+## 3.0 - Build 260416
 
-  - Note
+  - Update Support Center
+  - Bugfix SSL connection
+
+## 3.0 - Build 050416
+
+ - Release
