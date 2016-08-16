@@ -1,6 +1,26 @@
 # Cloud Management Suite
 www.mdct-group.com/cms
 
+## 3.1 - Build 160816
+- Update GUI
+- Update Menue
+- Update Main Dashboard
+- Update "More Cloud"
+- Update "Web Analytics"
+- Update "WebFTP"
+- Add Notificaton Dashboard
+- Add Background Task
+- Add Support Page
+- Add "Mailer"
+- Add "mdct Studio"
+- Add "App Upload & Run"
+- Add "Websites"
+- Add "Monitoring"
+- Add Accountingpage "User ID"
+- Add "Forgot User ID"
+- Add App API
+- Remove "File Cloud"
+
 ## 3.0 - Build 260416
 
   - Update Support Center
