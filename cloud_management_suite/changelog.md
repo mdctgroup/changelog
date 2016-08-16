@@ -9,6 +9,7 @@ www.mdct-group.com/cms
 - Update "Web Analytics"
 - Update "WebFTP"
 - Add Notificaton Dashboard
+- Add Order-System "+New"
 - Add Background Task
 - Add Support Page
 - Add "Mailer"
@@ -20,6 +21,7 @@ www.mdct-group.com/cms
 - Add "Forgot User ID"
 - Add App API
 - Remove "File Cloud"
+- Remove "Store"
 
 ## 3.0 - Build 260416
 
