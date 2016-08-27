@@ -1,7 +1,19 @@
 # Cloud Management Suite
 www.mdct-group.com/cms
 
+## 3.1 - Build 270816
+
+- Update "Profil Setting"
+- Update "Support"
+- Update Menue
+- Update Register-Page
+- Update Reset ID and Password
+- Update "User-ID"
+- Add "Advanced system settings" 
+- Add "Delete Account"
+
 ## 3.1 - Build 160816
+
 - Update GUI
 - Update Menue
 - Update Main Dashboard
