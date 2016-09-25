@@ -1,6 +1,20 @@
 # Cloud Management Suite
 www.mdct-group.com/cms
 
+## 3.1 - Build 250916
+
+- Update System Architecture 
+- Update Design
+- Update Dashboard
+- Update Buttons
+- Update Menue
+- Update Support
+- Uodate Settings
+- Update Availability
+- Upadte Loading Page
+- Add Taskmanager
+- Remove Utilization
+
 ## 3.1 - Build 270816
 
 - Update "Profil Setting"
