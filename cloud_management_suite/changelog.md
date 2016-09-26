@@ -11,7 +11,7 @@ www.mdct-group.com/cms
 - Update Support
 - Uodate Settings
 - Update Availability
-- Upadte Loading Page
+- Update Loading Page
 - Add Taskmanager
 - Remove Utilization
 
