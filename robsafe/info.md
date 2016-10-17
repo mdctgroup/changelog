@@ -1,6 +1,5 @@
 # RobSafe - Windows Backupsoftware
-www.mdct-group.com/robsafe
-For more information, please visit our website.
+For more information, please visit our website: www.mdct-group.com/robsafe
 
 
 ## RobSafe 6
