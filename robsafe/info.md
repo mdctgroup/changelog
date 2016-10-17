@@ -1,5 +1,7 @@
 # RobSafe - Windows Backupsoftware
 www.mdct-group.com/robsafe
+For more information, please visit our website.
+
 
 ## RobSafe 6
 - Enterprise (RS 5 Business)
@@ -20,8 +22,8 @@ www.mdct-group.com/robsafe
 - Pro
 - Standard
 
-# RobSafe 2013
+## RobSafe 2013
 - Single Edition
 
-# RobSafe 2012
+## RobSafe 2012
 - Single Edition
