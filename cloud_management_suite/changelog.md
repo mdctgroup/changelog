@@ -1,6 +1,11 @@
 # Cloud Management Suite
 www.mdct-group.com/cms
 
+## 3.1 - Build 271016
+
+- Update Mobile-Dashboard
+- Add Your Bills (Kundencenter connection)
+
 ## 3.1 - Build 250916
 
 - Update System Architecture 
