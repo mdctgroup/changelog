@@ -1,6 +1,21 @@
 # Cloud Management Suite
 www.mdct-group.com/cms
 
+## 3.2 - Build 301116
+
+- Update Bugfix
+- Update mdct Studio 1 (Final)
+- Update Webmailer (Mail)
+- Update Menue
+- Update Logout
+- Add "Sign out anywhere"
+- Add "Lock Screen"
+- Add Design "White"
+- Add Design "Deuteranopia"
+- Add mdct Analytics Series 2
+- Add WebApps
+- Remove "Loading-Page"
+
 ## 3.1 - Build 271016
 
 - Update Mobile-Dashboard
@@ -44,7 +59,7 @@ www.mdct-group.com/cms
 - Add Background Task
 - Add Support Page
 - Add "Mailer"
-- Add "mdct Studio"
+- Add "mdct Studio (Beta)"
 - Add "App Upload & Run"
 - Add "Websites"
 - Add "Monitoring"
