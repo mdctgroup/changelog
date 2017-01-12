@@ -1,6 +1,14 @@
 # Cloud Management Suite
 www.mdct-group.com/cms
 
+## 3.2 - Build 120117
+
+- Update Login-Interface
+- Update Signup-Interface
+- Update Error Reporting
+- Update "Delete Account"
+- Update System-Kernel for 3.3
+
 ## 3.2 - Build 301116
 
 - Update Bugfix
