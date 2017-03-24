@@ -13,11 +13,14 @@ www.mdct-group.com/cms
 - Update About Page
 - Update Dashboard
 - Update Support Center
+- Update Favicon
 - Add Security Center
 - Add EXT Service
 - Add Dashboard Settings
 - Add Blue Design
 - Add Account Page
+- Add mdct Cloud Monitoring Series 2
+- Add mdct Cloud WebApps Pro
 - Remove Jimdo Info Page
 - Remove Kundencenter
 - Remove Task Manager
