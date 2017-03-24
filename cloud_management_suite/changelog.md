@@ -1,6 +1,27 @@
 # Cloud Management Suite
 www.mdct-group.com/cms
 
+## 3.3 - Build 190317
+
+- Update Basic Design
+- Update Colors & Font
+- Update Menu structure
+- Update "Telecommunications"
+- Update "More Cloud"
+- Update "Jimdo Websites"
+- Update Webmailer
+- Update About Page
+- Update Dashboard
+- Update Support Center
+- Add Security Center
+- Add EXT Service
+- Add Dashboard Settings
+- Add Blue Design
+- Add Account Page
+- Remove Jimdo Info Page
+- Remove Kundencenter
+- Remove Task Manager
+
 ## 3.2 - Build 120117
 
 - Update Login-Interface
