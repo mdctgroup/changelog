@@ -2,6 +2,10 @@
 For more information, please visit our website: www.mdct-group.com/lionserver
 
 
+## Lion Server 2017
+- Single Edition
+
+
 ## Lion Server 2016
 - Single Edition
 
