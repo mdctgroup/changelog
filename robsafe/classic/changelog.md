@@ -1,6 +1,10 @@
 # RobSafe Classic
 www.mdct-group.com/robsafe
 
+## RobSafe 7 Classic - Build 0190317
+- GUI Update
+- Update "Clean Code"
+- Bugfix
 
 ## RobSafe 6 Classic - Build 210216
 - GUI Update
