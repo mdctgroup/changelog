@@ -2,6 +2,11 @@
 www.mdct-group.com/robsafe
 
 
+## RobSafe 7 Stick - Build 090317
+- GUI Update
+- Update "Clean Code"
+
+
 ## RobSafe 6 Stick - Build 040216
 - GUI Update
 
