@@ -2,6 +2,13 @@
 For more information, please visit our website: www.mdct-group.com/robsafe
 
 
+## RobSafe 7
+- Enterprise
+- Classic
+- Online
+- Stick
+- Home (new)
+
 ## RobSafe 6
 - Enterprise (RS 5 Business)
 - Classic (RS 4 Standard)
