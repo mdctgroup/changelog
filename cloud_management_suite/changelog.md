@@ -1,6 +1,21 @@
 # Cloud Management Suite
 www.mdct-group.com/cms
 
+## 3.3 - Build 230417
+
+- Update External Services
+- Update mdct Studio 1.1 (Build 140417)
+  - Update Editor Change
+  - Update Design
+  - Add Software Download
+- Update Issue troubleshooting
+- Update Menue
+- Update Dashboard
+- Update Ordersystem
+- Add Tools
+- Add Tool Ping
+- Add Tool Traceroute
+
 ## 3.3 - Build 190317
 
 - Update Basic Design
