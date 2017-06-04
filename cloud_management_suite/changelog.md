@@ -1,6 +1,20 @@
 # Cloud Management Suite
 www.mdct-group.com/cms
 
+## 3.3 - Build 310517
+
+- Update Dashboard
+- Update Login (Background)
+- Update Webmail
+- Update Notifications
+- Add Packages Service
+- Add Tool "Color Picker"
+- Add Webmailer - Wunderlist
+- Add Webmailer - Microsoft ToDo
+- Remove Monitoring Series 1
+- Remove Analytics Series 1
+- Remove Notifications Archiv
+
 ## 3.3 - Build 230417
 
 - Update External Services
