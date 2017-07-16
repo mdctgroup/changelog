@@ -1,6 +1,26 @@
 # Cloud Management Suite
 www.mdct-group.com/cms
 
+## 3.3 - Build 160717
+
+- Update Menue
+- Update Account Page
+- Update Language
+- Update Monitoring System
+- Update WebFTP & Jimdo Tools
+- Update Dashboard
+- Update Daytime
+- Update Login/Signup System
+- Update Notifications (eMail)
+- Add Web.de and GMX to Webmail
+- Add System Logs
+- Add Server & Infrastruktur
+- Add Wetter Feature (Beta)
+- Add Tool Google & Bing Webmaster
+- Remove Logout-Anywhere
+- Remove "Bills"
+- FIX Mobile Scrolling Bug
+
 ## 3.3 - Build 310517
 
 - Update Dashboard
