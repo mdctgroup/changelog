@@ -1,6 +1,10 @@
 # Cloud Management Suite
 www.mdct-group.com/cms
 
+## 3.3 - Build 300717
+
+- Add Datenschutz Optionen
+
 ## 3.3 - Build 160717
 
 - Update Menue
