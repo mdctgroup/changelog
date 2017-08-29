@@ -1,6 +1,27 @@
 # Cloud Management Suite
 www.mdct-group.com/cms
 
+## 3.4 - Build 270817
+
+- Update Menue "Mein Konto"
+- Update Session System
+- Update Menue "Site left"
+- Update Menue "Top"
+- Update Login-Page
+- Update Design "Default"
+- Add Design "Bright"
+- Add MediaCenter
+- Add "Meine Anwendungen"
+- Add new Order System
+- Add "Rechnung begleichen (BETA)"
+- Add "Stern-Kundenbewertung"
+- Add InfoPages
+- Add Cloud Trust Center
+- Remove Design "Blue"
+- Remove "System Status"
+- Remove "Security Center"
+- Remove "Lock-Session" Function
+
 ## 3.3 - Build 300717
 
 - Add Datenschutz Optionen
