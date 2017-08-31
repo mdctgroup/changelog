@@ -1,6 +1,11 @@
 # Cloud Management Suite
 www.mdct-group.com/cms
 
+## 3.4 - Build 310817
+
+- Update "Mein Konto" Page
+- FIX Password-Change Google Chrome Bug
+
 ## 3.4 - Build 270817
 
 - Update Menue "Mein Konto"
