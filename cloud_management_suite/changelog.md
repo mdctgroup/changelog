@@ -1,6 +1,21 @@
 # Cloud Management Suite
 www.mdct-group.com/cms
 
+## 3.4 - Build 021017
+
+- Update Menue Left
+- Update Menue Top
+- Update mdct Studio (mdct Studio 2)
+- Update Dashboard
+- Update Webmailer
+- Add WebApps Management Center
+- Add "Rechnungsbox"
+- Add Tool "Breitbandmessung"
+- Add Tool "Wetransfer(R)"
+- Add Tool Sonderzeichen
+- Add Avatare
+- Remove "Vollbild-Button"
+
 ## 3.4 - Build 310817
 
 - Update "Mein Konto" Page
