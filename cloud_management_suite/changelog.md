@@ -9,6 +9,7 @@ www.mdct-group.com/cms
 - Update Bestellung
 - Update Menue
 - Update Dashboard
+- Update System Kernel
 - Add WebApps 2 Manager
 - Add "Info-Center"
 - Remove "Themes" (temporary)
