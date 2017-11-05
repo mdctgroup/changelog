@@ -1,6 +1,18 @@
 # Cloud Management Suite
 www.mdct-group.com/cms
 
+
+## 3.4 - Build 051117
+
+- Update Logfiles
+- Update Report System
+- Update Bestellung
+- Update Menue
+- Update Dashboard
+- Add WebApps 2 Manager
+- Add "Info-Center"
+- Remove "Themes" (temporary)
+
 ## 3.4 - Build 021017
 
 - Update Menue Left
