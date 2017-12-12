@@ -2,6 +2,22 @@
 www.mdct-group.com/cms
 
 
+## 3.4 - Build 121217
+
+- Update Bestellungen
+- Update mdct Studio
+  - Add New menue
+  - Add Hosting Manager
+  - Add Tools
+  - Remove Web-Editor
+- Update Menue
+- Update Dashboard
+- Update Account
+- Add Guthaben (Beta)
+- Add Kundennummer
+- Remove "Groove" / Media Center
+- Remove Logfiles
+
 ## 3.4 - Build 051117
 
 - Update Logfiles
