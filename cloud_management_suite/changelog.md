@@ -2,7 +2,7 @@
 www.mdct-group.com/cms
 
 
-## 3.4 - Build 121217
+## 3.4 - Update 3 - Build 121217
 
 - Update Bestellungen
 - Update mdct Studio
@@ -18,7 +18,7 @@ www.mdct-group.com/cms
 - Remove "Groove" / Media Center
 - Remove Logfiles
 
-## 3.4 - Build 051117
+## 3.4 - Update 2 - Build 051117
 
 - Update Logfiles
 - Update Report System
@@ -30,7 +30,7 @@ www.mdct-group.com/cms
 - Add "Info-Center"
 - Remove "Themes" (temporary)
 
-## 3.4 - Build 021017
+## 3.4 - Update 1 - Build 021017
 
 - Update Menue Left
 - Update Menue Top
