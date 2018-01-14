@@ -1,6 +1,17 @@
 # Cloud Management Suite
 www.mdct-group.com/cms
 
+## 3.4 - Update 4 - Build 140118
+
+- Update Menü Top
+- Upate Info-Center
+- Update Webmailer
+- Update Dashboard
+- Update Meine Anwendungen
+- Update Ressourcen Zuteilung
+- Remove DSGVO Zustimmung
+- Remove Jimdo Tools
+- Remove WebFTP
 
 ## 3.4 - Update 3 - Build 121217
 
