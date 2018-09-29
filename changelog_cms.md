@@ -2,7 +2,7 @@
 www.mdct-group.com/cms
 
 
-## ## Release 32 – 28.08.2018
+## Release 32 – 28.08.2018
 
 - Add „Order-SystemNG“
 - Add Tool ifconfig.io
@@ -48,20 +48,20 @@ www.mdct-group.com/cms
 - Add News Center
 - Add Frame Webmail
 - Add Tools/Cloud Apps
--- Microsoft Office 365 Exchange
--- Microsoft Azure AD
--- Microsoft Office Admin Center
--- Microsoft Teams
--- Microsoft Tasks
--- Wunderlist
--- GUID Generator
--- Slack
--- VirusTotal
--- urlscan.io
--- Trello
--- me
--- weTransfer
--- Network Tools
+ - Microsoft Office 365 Exchange
+ - Microsoft Azure AD
+ - Microsoft Office Admin Center
+ - Microsoft Teams
+ - Microsoft Tasks
+ - Wunderlist
+ - GUID Generator
+ - Slack
+ - VirusTotal
+ - urlscan.io
+ - Trello
+ - me
+ - weTransfer
+ - Network Tools
 - Update mdct Studio
 - Update Dashboard
 - Update Support Seite
