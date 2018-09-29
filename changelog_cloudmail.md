@@ -1,4 +1,4 @@
-# Changelog for Cloud Mailo
+# Changelog for Cloud Mail
 www.mdct-group.com/cloud
 
 
