@@ -12,7 +12,11 @@ www.mdct-group.com/welcome
 
 ## Edition G2 210918
 
-- Upgrade Generation 2
+- Generation 2
+- Update Design
+- Update Startpage
+- Update Settings
+- Update MediaTV
  
 
 ## Edition 150718
