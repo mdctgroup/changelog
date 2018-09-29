@@ -4,8 +4,8 @@ www.mdct-group.com/cms
 
 ## Release 32 – 28.08.2018
 
-Add „Order-SystemNG“
-Add Tool ifconfig.io
+- Add „Order-SystemNG“
+- Add Tool ifconfig.io
 Add Settings for E-Mails
 Update mdct Studio WebApps Login
 Update Domain Ansicht
