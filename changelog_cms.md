@@ -1,6 +1,15 @@
 # Changelog for Cloud Management Suite
 www.mdct-group.com/cms
 
+## Release 33 - 29.10.2018 "London"
+- Add "Mail API"
+- Add SPF Settings for Domain
+- Add DNS Export
+- Update Server Management
+- Update Order System
+- Update Design
+- Update Menue
+- Update Support-Service
 
 ## Release 32 – 28.08.2018
 
