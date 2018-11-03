@@ -2,7 +2,7 @@
 www.mdct-group.com/welcome
 
 
-## Edition 210915
+## Edition G2 250918
 
 - Add Live-Picture-Changing
 - Update Settings
