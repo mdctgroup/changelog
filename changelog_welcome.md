@@ -1,6 +1,10 @@
 # Changelog for mdct Welcome
 www.mdct-group.com/welcome
 
+## Edition G2 101118
+- Ad Personal-URL
+- Update language to english
+
 
 ## Edition G2 250918
 
