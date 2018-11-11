@@ -1,6 +1,18 @@
 # Changelog for Cloud Management Suite
 www.mdct-group.com/cms
 
+## Release 34 - 11.11.2018 "London Greenwich"
+- Add "Mermaid" to mdct Studio 
+- Add EN Language Pack 1.0
+- Add external Domain service
+- Add Mailbox change password
+- Redesign Cloud Trust Center
+- Update account setup
+- Update application page
+- Update menue
+- Update support for docs
+
+
 ## Release 33 - 29.10.2018 "London"
 - Add "Mail API"
 - Add SPF Settings for Domain
