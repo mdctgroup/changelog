@@ -1,12 +1,19 @@
 # Changelog for mdct Welcome
 www.mdct-group.com/welcome
 
-## Edition G2 101118
+## Edition 210119
+- Bugfix
+- Temporary change for picture-source
+- Update for main page
+- Update for "Welcome TV"
+
+
+## Edition 101118
 - Ad Personal-URL
 - Update language to english
 
 
-## Edition G2 250918
+## Edition 250918
 
 - Add Live-Picture-Changing
 - Update Settings
@@ -14,7 +21,7 @@ www.mdct-group.com/welcome
 - Update Main-Page
 
 
-## Edition G2 210918
+## Edition (G2) 210918
 
 - Generation 2
 - Update Design
