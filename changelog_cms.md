@@ -1,6 +1,11 @@
 # Changelog for Cloud Management Suite
 www.mdct-group.com/cms
 
+## Release 36 - 10.02.2018 "Munich"
+- Complete new release
+- Update mdct Studio
+- Add Ticket Service
+
 ## Release 34 - 11.11.2018 "London Greenwich"
 - Add "Mermaid" to mdct Studio 
 - Add EN Language Pack 1.0
@@ -24,7 +29,6 @@ www.mdct-group.com/cms
 - Update Support-Service
 
 ## Release 32 – 28.08.2018
-
 - Add „Order-SystemNG“
 - Add Tool ifconfig.io
 - Add Settings for E-Mails
