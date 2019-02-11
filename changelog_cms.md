@@ -1,12 +1,12 @@
 # Changelog for Cloud Management Suite
 www.mdct-group.com/cms
 
-## Release 36 - 10.02.2018 "Munich"
+## Release 36 - 10.02.2019 "Munich"
 - Complete new release (G4)
 - Update mdct Studio
 - Add Ticket Service
 
-## Release 35 - 10.02.2018 "London - Newham"
+## Release 35 - 10.02.2019 "London - Newham"
 - Read only mode for G3 Edition
 
 ## Release 34 - 11.11.2018 "London Greenwich"
