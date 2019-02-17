@@ -1,10 +1,24 @@
 # Changelog for Cloud Management Suite
 www.mdct-group.com/cms
 
+## Release 37 - 17.02.2019 "Munich - Pasing"
+- Add Notes for MySQL
+- Add Notes for business intelligence
+- Add Notes for SSL Certificates
+- Add Notes for MailAlias
+- Add Webmail (Cloud Mail) Client
+- Add Feedback service
+- Add Mailbox password change
+- Add resize server
+- Add 3 new tools
+- Update mdct Studio
+- Update Order/Create
+- Update Applications overview
+
 ## Release 36 - 10.02.2019 "Munich"
 - Complete new release (G4)
-- Update mdct Studio
 - Add Ticket Service
+- Update mdct Studio
 
 ## Release 35 - 10.02.2019 "London - Newham"
 - Read only mode for G3 Edition
