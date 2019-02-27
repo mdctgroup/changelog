@@ -1,6 +1,18 @@
 # Changelog for Cloud Management Suite
 www.mdct-group.com/cms
 
+## Release 38 - 27.02.2019 "Munich - Schwabing"
+- Add Domain Whois Update
+- Add Costmanagement
+- Add Security & Compliance [BETA]
+- Update Dashboard
+- Update Application overview
+- Update Application notes
+- Update Billing
+- Update Order/Create
+- Update Cancel account
+
+
 ## Release 37 - 17.02.2019 "Munich - Pasing"
 - Add Notes for MySQL
 - Add Notes for business intelligence
