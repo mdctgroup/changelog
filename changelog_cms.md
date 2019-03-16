@@ -1,6 +1,15 @@
 # Changelog for Cloud Management Suite
 www.mdct-group.com/cms
 
+## Release 39 - 16.03.2019 "Munich - Ramersdorf"
+- Add Security&Compliance Center
+- Add HowTo-Videos
+- Bugfix Desktop
+- Bugfix Mobile
+- Update LoginUX
+- Updates for WebAppsNG
+
+
 ## Release 38 - 27.02.2019 "Munich - Schwabing"
 - Add Domain Whois Update
 - Add Costmanagement
