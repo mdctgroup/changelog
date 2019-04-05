@@ -1,6 +1,17 @@
 # Changelog for Cloud Management Suite
 www.mdct-group.com/cms
 
+## Release 40 - 05.04.2019 "Munich - Ramersdorf - Perlach"
+- Add WordPress Update Service
+- Add Domain Health Report
+- Update mdct Studio
+- Update Menue
+- Update Order (technical)
+- Update UX Order
+- Update InfoCenter
+- Update System Health
+- Buxfix Support Ticket (InfoCenter)
+
 ## Release 39 - 16.03.2019 "Munich - Ramersdorf"
 - Add Security&Compliance Center
 - Add HowTo-Videos
