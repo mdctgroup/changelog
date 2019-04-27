@@ -1,8 +1,14 @@
 # Changelog for mdct Welcome
 www.mdct-group.com/welcome
 
+## Edition 270419
+- Add Bing on Microsoft Azure, Cognitive Search-Services
+- Add Bing as default search
+- Update picture selection
+
+
 ## Edition 280119
-- Upate picture
+- Upate pictures
 
 
 ## Edition 210119
