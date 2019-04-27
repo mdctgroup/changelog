@@ -4,7 +4,13 @@ www.mdct-group.com/welcome
 ## Edition 270419
 - Add Bing on Microsoft Azure, Cognitive Search-Services
 - Add Bing as default search
+- Add on focus "Meetup"
+- Add on focus "reddit"
+- Add on focus "Pinterest"
 - Update picture selection
+- Remove on focus "Slack"
+- Remove mail-page
+- Remove tv-page
 
 
 ## Edition 280119
