@@ -8,6 +8,7 @@ www.mdct-group.com/welcome
 - Add on focus "reddit"
 - Add on focus "Pinterest"
 - Update picture selection
+- Bugfix time
 - Remove on focus "Slack"
 - Remove mail-page
 - Remove tv-page
