@@ -9,7 +9,7 @@ www.mdct-group.com/cms
 - Add "Docs" for documents (Beta)
 - Add Multi-Account settings
 - Add mdct Individual cost calculating
-- Update WPManagement autp-credentials
+- Update WPManagement auto-credentials
 - Update "Account & Settings"
 - Update footer and core design
 - Update system security settings
