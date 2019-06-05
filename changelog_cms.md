@@ -1,6 +1,22 @@
 # Changelog for Cloud Management Suite
 www.mdct-group.com/cms
 
+## Release 42 - 05.06.2019 "Munich - Bogenhausen"
+- Add Locations for user accounts
+- Add aditional profile settings
+- Add Changelog/Alerts for "Security & Compliance"
+- Add monitoring for domains
+- Add "Docs" for documents (Beta)
+- Add Multi-Account settings
+- Add mdct Individual cost calculating
+- Update WPManagement autp-credentials
+- Update "Account & Settings"
+- Update footer and core design
+- Update system security settings
+- Update Costmanagement
+- Bugfix News-View
+
+
 ## Release 41 - 30.04.2019 "Munich - Neuhausen"
 - Add Business Mail
 - Update Settings
