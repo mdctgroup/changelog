@@ -1,6 +1,13 @@
 # Changelog for Cloud Mail
 www.mdct-group.com/mail
 
+## Build 230619
+- Update Themes
+- Update System-Chache
+- Update Login
+- Bugfix "View" HTML Mails
+
+
 ## Build 090319
 - Add new themes
 - Add OpenPGP
