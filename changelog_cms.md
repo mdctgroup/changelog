@@ -1,6 +1,20 @@
 # Changelog for Cloud Management Suite
 www.mdct-group.com/cms
 
+## Release 43 - 28.06.2019 "Munich - Pullach"
+- Add "Lock Session"
+- Add "Ext-Domain" service
+- Add View "Welcome View" services
+- Add MailAPI Generation2
+- Update "Server Manager"
+- Update "Applications"
+- Update "Dashboard"
+- Update "Cancel Service"
+- Update "Settings"
+- Update "Reporting Services"
+- Remove "Switch back to CMS 3 - Release 35"
+
+
 ## Release 42 - 05.06.2019 "Munich - Bogenhausen"
 - Add Locations for user accounts
 - Add aditional profile settings
