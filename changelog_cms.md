@@ -15,6 +15,7 @@ www.mdct-group.com/cms
 - Update Support-Center
 - Update Leval-Information
 - Update mdct Studio tools
+- Update News to article system
 - Remove Manager (include services to CMS)
 
 
