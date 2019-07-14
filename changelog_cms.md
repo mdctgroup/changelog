@@ -1,6 +1,21 @@
 # Changelog for Cloud Management Suite
 www.mdct-group.com/cms
 
+## Release 44 - 14.07.2019 "Munich - Gruenwald"
+- Core Update Database-Performance
+- Add WebApp Repository
+- Add status tools for domains
+- Add incidents for health website
+- Add App Manager plugin "bookmarks"
+- Add App Manager plugin "color picker"
+- Add App Manager plugin "print"
+- Update App Manager Design
+- Update "Welcome View"
+- Update Support-Center
+- Update Leval-Information
+- Update mdct Studio tools
+
+
 ## Release 43 - 28.06.2019 "Munich - Pullach"
 - Add "Lock Session"
 - Add "Ext-Domain" service
