@@ -6,6 +6,7 @@ www.mdct-group.com/cms
 - Add WebApp Repository
 - Add status tools for domains
 - Add incidents for health website
+- Add incidents downloads
 - Add App Manager plugin "bookmarks"
 - Add App Manager plugin "color picker"
 - Add App Manager plugin "print"
@@ -14,6 +15,7 @@ www.mdct-group.com/cms
 - Update Support-Center
 - Update Leval-Information
 - Update mdct Studio tools
+- Remove Manager (include services to CMS)
 
 
 ## Release 43 - 28.06.2019 "Munich - Pullach"
