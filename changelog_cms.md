@@ -1,6 +1,19 @@
 # Changelog for Cloud Management Suite
 www.mdct-group.com/cms
 
+## Release 45 - 06.08.2019 "Munich - Maxvorstadt"
+- Add Gravatar.com integration
+- Add resource groups
+- Add Account-Security
+- Update WelcomeView
+- Update language
+- Update mobile order
+- Update Dashboard
+- Update Account-Settings
+- Update side menue (Infocenter)
+- Update loading speed
+
+
 ## Release 44 - 14.07.2019 "Munich - Gruenwald"
 - Core Update Database-Performance
 - Add WebApp Repository
