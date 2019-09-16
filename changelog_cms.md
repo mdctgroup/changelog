@@ -1,6 +1,18 @@
 # Changelog for Cloud Management Suite
 www.mdct-group.com/cms
 
+## Release 46 - 16.09.2019 "Munich - Sendling"
+- Core Database Change for future services
+- Add 2Factor Authentication
+- Add "Export Costmanagement"
+- Add URL Short Service
+- Add External Service with Azure, AWS & Google Cloud
+- Add select Pre-Payment
+- Update Menue
+- Update Costmanagement
+- Update Dashboard
+
+
 ## Release 45 - 06.08.2019 "Munich - Maxvorstadt"
 - Add Gravatar.com integration
 - Add resource groups
