@@ -1,9 +1,9 @@
 # Changelog
-mdct Group - Release Notes
+You can find here the complete public changelog from 25Space.com and mdct Group.
 
-www.mdct-group.com/next
+www.25space.com/developer
 
 ## Changelog available for:
 - Cloud Management Suite
 - Cloud Mail
-- mdct Welcome
+- mdct Welcome / 25Welcome
