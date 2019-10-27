@@ -2,7 +2,7 @@
 www.mdct-group.com/cms
 
 ## Release 47 - 27.10.2019 - "Munich - Lehel"
-- Add "DarkTheme" Beta
+- Add "DarkTheme" (Beta)
 - Add 25Space.com Developer-Content
 - Add WebApp Traffic (Beta)
 - Update WelcomeView Objects
