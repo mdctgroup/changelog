@@ -1,6 +1,18 @@
 # Changelog for Cloud Management Suite
 www.mdct-group.com/cms
 
+## Release 47 - 27.10.2019 - "Munich - Lehel"
+- Add "DarkTheme" Beta
+- Add 25Space.com Developer-Content
+- Add WebApp Traffic (Beta)
+- Update WelcomeView Objects
+- Update "mdct Studio" to "Cloud Studio"
+- Update Order Storage, simplification.
+- Update Dashboard
+- Update Costmanagement (table and sorting)
+- Update Costmanagement-Export
+
+
 ## Release 46 - 16.09.2019 "Munich - Sendling"
 - Core Database Change for future services
 - Add 2Factor Authentication
