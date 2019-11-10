@@ -1,5 +1,9 @@
-# Changelog for mdct Welcome
-www.mdct-group.com/welcome
+# Changelog for 25Welcome
+www.25space.com/welcome
+
+## Edition 101119
+- Start renaming mdct Welcome to 25Welcome
+
 
 ## Edition 270419
 - Add Bing on Microsoft Azure, Cognitive Search-Services
