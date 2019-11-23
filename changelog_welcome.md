@@ -1,6 +1,13 @@
 # Changelog for 25Welcome
 www.25space.com/welcome
 
+## Edition 231119
+- Change global system to welcome.25space.com
+- Start forwarding all sessions to new systems
+- Global integration for 25Welcome View
+- Update Settings
+- Update menu
+
 ## Edition 101119
 - Start renaming mdct Welcome to 25Welcome
 
