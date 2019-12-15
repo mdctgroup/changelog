@@ -1,7 +1,15 @@
 # Changelog for Cloud Management Suite
-www.mdct-group.com/cms
+www.25space.com/cloud
 
-## Release 47 - 27.10.2019 - "Munich - Lehel"
+## Release 48 - 15.12.2019 "Munich - Feldmoching"
+- Add Cronjob Service (Beta)
+- Update Cloud Studio
+- Update #Phonestore
+- Update for "URL Shortner"
+- Update "Costmanagement"
+
+
+## Release 47 - 27.10.2019 "Munich - Lehel"
 - Add "DarkTheme" (Beta)
 - Add 25Space.com Developer-Content
 - Add WebApp Traffic (Beta)
