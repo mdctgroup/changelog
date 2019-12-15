@@ -7,6 +7,7 @@ www.25space.com/cloud
 - Update #Phonestore
 - Update for "URL Shortner"
 - Update "Costmanagement"
+- Update Login on mobile device
 
 
 ## Release 47 - 27.10.2019 "Munich - Lehel"
