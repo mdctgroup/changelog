@@ -1,6 +1,10 @@
 # Changelog for Cloud Mail
 www.mdct-group.com/mail
 
+## Build 250120
+- Update Themes
+- Update Mobile-Design
+
 ## Build 230619
 - Update Themes
 - Update System-Chache
