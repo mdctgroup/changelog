@@ -1,6 +1,17 @@
 # Changelog for Cloud Management Suite
 www.25space.com/cloud
 
+## Release 49 - 25.01.2019 "Munich - Milbertshofen"
+- Add Subdomain Service
+- Update "Security & Compliance"
+- Update "Settings"
+- Update BI Applications
+- Updates "Create and Order"
+- Update eMail-Templates
+- Update Core-Systems
+- Update Error-Handling
+
+
 ## Release 48 - 15.12.2019 "Munich - Feldmoching"
 - Add Cronjob Service (Beta)
 - Update Cloud Studio
