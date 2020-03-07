@@ -1,6 +1,20 @@
 # Changelog for Cloud Management Suite
 www.25space.com/cloud
 
+## Release 50 - 07.03.2019 "Munich - Laim"
+- Add 25Share
+- Add SEPA payment
+- Update DocumentViewer
+- Update Health-Statistics
+- Update Cronjob
+- Update "Miniwebsites"
+- Update Login-Management
+- Update Dataexport
+- Update Costmanagement-Export
+- Update WelcomeView "Platform"
+- Remove WelcomeView "App" (fusion with platform)
+
+
 ## Release 49 - 25.01.2019 "Munich - Milbertshofen"
 - Add Subdomain Service
 - Update "Security & Compliance"
