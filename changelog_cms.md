@@ -1,6 +1,10 @@
 # Changelog for Cloud Management Suite
 www.25space.com/cloud
 
+## IMPORTANT UPDATE
+We are now update all our services as micro-service. This logfile will not be updated, for all changes please visit our website at https://25space.com/developer/changelog/
+
+
 ## Release 50 - 07.03.2020 "Munich - Laim"
 - Add 25Share
 - Add SEPA payment
