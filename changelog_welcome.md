@@ -1,6 +1,10 @@
 # Changelog for 25Welcome
 www.25space.com/welcome
 
+## IMPORTANT UPDATE
+We are now update all our services as micro-service. This logfile will not be updated, for all changes please visit our website at https://25space.com/developer/changelog/
+
+
 ## Edition 231119
 - Change global system to welcome.25space.com
 - Start forwarding all sessions to new systems
