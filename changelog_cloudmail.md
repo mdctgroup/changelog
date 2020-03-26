@@ -1,6 +1,10 @@
 # Changelog for Cloud Mail
 www.mdct-group.com/mail
 
+## IMPORTANT UPDATE
+We are now update all our services as micro-service. This logfile will not be updated, for all changes please visit our website at https://25space.com/developer/changelog/
+
+
 ## Build 250120
 - Update Themes
 - Update Mobile-Design
